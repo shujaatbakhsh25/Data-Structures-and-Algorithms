@@ -11,5 +11,3 @@ def power_set(items):
             print(i)
             print(combo)
         yield combo
-print(list(power_set([1,2,3])))
-print(5>>1)
